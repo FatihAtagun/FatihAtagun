@@ -1,11 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Fatih Atagün</h1>
 <h3 align="center"> Junior Software Developer </h3>
-    <img src="https://img.shields.io/twitter/follow/FatihAtagun?logo=twitter&style=for-the-badge" alt="fatihAtagün" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FatihAtagun&label=Profile%20views&color=0e75b6&style=flat" alt="FatihAtagun" /> </p>
-
-  <img src="https://komarev.com/ghpvc/?username=hanifemehan&label=Profile%20views&color=0e75b6&style=flat" alt="hanifemehan" /> 
-
 
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
