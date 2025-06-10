@@ -3,11 +3,8 @@
 <h3 align="center"> Junior Software Developer </h3>
 
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/16551443/media/28b4f59a0ff4a0b0077c5049cd94f805.gif" alt="FatihAtagun" /> 
 
-<p align="left"> 
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/16551443/media/28b4f59a0ff4a0b0077c5049cd94f805.gif" alt="FatihAtagun" /> 
-</p>
+
 
 ### 🧑‍💻 About Me:
 - 💼 I’m currently working on React-based UI projects  
