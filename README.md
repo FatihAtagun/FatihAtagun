@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hanifi Mehan</h1>
-<h3 align="center">Front-end Developer | JavaScript & React Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Fatih Atagün</h1>
+<h3 align="center"> Junior Software Developer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
