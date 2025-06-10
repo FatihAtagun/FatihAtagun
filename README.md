@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/twitter/follow/FatihAtagun?logo=twitter&style=for-the-badge" alt="fatihAtagün" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FatihAtagun&label=Profile%20views&color=0e75b6&style=flat" alt="FatihAtagun" /> </p>
 
-<p align="left"> <a href="https://twitter.com/FatihAtagun" target="blank"><img src="https://img.shields.io/twitter/follow/FatihAtagun?logo=twitter&style=for-the-badge" alt="FatihAtagun" /></a> </p>
+  <img src="https://komarev.com/ghpvc/?username=hanifemehan&label=Profile%20views&color=0e75b6&style=flat" alt="hanifemehan" /> 
 
 ### 🧑‍💻 About Me:
 - 💼 I’m currently working on React-based UI projects  
