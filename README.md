@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Fatih Atagün</h1>
 <h3 align="center"> Junior Software Developer </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/web-developer.gif">
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5f7f6ab7f6a04394f45f182e8f5a0fcf.gif">
 
 ### 🧑‍💻 About Me:
 - 💼 I’m currently working on React-based UI projects  
