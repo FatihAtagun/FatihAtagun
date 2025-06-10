@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Fatih Atagün</h1>
 <h3 align="center"> Junior Software Developer </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5f7f6ab7f6a04394f45f182e8f5a0fcf.gif">
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/web-developer.gif">
 
 
